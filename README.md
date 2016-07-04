@@ -1,6 +1,4 @@
-# HM-Sensor
-Nachbau des "Universalsensors", allerdings mit anderen Sensoren.
+# HM-Sensor-OneWire
+Nachbau des "Universalsensors" von Dirk
 
-Muß zusammen mit dem dev-Branch meines Forks der NewAskSin-Library compiliert und gelinkt werden.
-
-Entwicklungsumgebung: Atmel Studio 7.0
+- Ein Dallas DS18S20 Temperatur Sensor mit Data an Pin 5 und Power an Pin 9
